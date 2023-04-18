@@ -21,6 +21,7 @@ export default function EditNote() {
       "note": newNote
     })
     navigate("/")
+    console.log("")
   }
   return (
     <div>
